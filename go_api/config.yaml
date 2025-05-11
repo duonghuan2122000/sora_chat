@@ -1,0 +1,8 @@
+HOST_NAME: "127.0.0.1"
+APP_PORT: "8080"
+TRUST_PROXIES:
+  - "127.0.0.1"
+MONGO_URI: "mongodb://localhost:27017"
+MONGO_DB: "sora_chat"
+REDIS_CONN: "localhost:6379"
+REDIS_PASS: ""
